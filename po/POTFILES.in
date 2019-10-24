@@ -1,0 +1,33 @@
+# List of source files containing translatable strings.
+
+## Created by Anjuta - will be overwritten
+## If you don't want it to overwrite it,
+## 	Please disable it in the Anjuta project configuration
+
+# Source files
+src/main.cc
+src/BasicMovements.cpp
+src/BasicMovements.h
+src/BasicSkills.cpp
+src/BasicSkills.h
+src/Connection.cpp
+src/Connection.h
+src/Geometry.cpp
+src/Geometry.h
+src/HumanoidMovements.cpp
+src/HumanoidMovements.h
+src/Player.h
+src/SoccerSkills.cpp
+src/SoccerSkills.h
+src/WorldModel.cpp
+src/WorldModel.h
+src/WorldModelUpdate.cpp
+src/player.cpp
+src/types.cpp
+src/types.h
+src/Data.h
+src/Body.cpp
+src/Body.h
+src/Data.cpp
+
+
